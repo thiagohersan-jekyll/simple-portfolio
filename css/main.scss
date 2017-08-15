@@ -70,6 +70,9 @@ body {
     max-width: $MENU-WIDTH;
     left: 0;
     padding: $COLUMN-WIDTH / 10;
+    a {
+      white-space: nowrap;
+    }
     transition: none;
   }
 
